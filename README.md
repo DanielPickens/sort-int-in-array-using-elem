@@ -2,7 +2,7 @@
 My code solution that solves an algorithmic equation 
 
 
-My code in my created file : main.py, will solve efficiently in O(n) , this algo: 
+My code in my created file : main.py, will solve efficiently in O(n^2) , this algo: 
 
 
 
